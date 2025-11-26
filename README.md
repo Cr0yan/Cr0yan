@@ -1,5 +1,5 @@
 ## Welcome to my world 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+world!)](https://git.io/typing-svg)
+<center>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Welcome+to+my+world!")](https://git.io/typing-svg)</center>
 <!--
 **Cr0yan/Cr0yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
